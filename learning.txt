@@ -1,0 +1,1 @@
+In this course, I've learned how to use Git and GitHub to manage version control, including how to clone repos, commit changes, and push updates.
